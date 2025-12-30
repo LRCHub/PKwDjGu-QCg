@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Cross Your Mind",
+  "base_artist": "Shelly",
+  "createdAt": "2025-12-30T05:51:44.655800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Does_Fort_Worth_Ever_Cross_Your_Mind_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Does_Fort_Worth_Ever_Cross_Your_Mind_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Does_Fort_Worth_Ever_Cross_Your_Mind_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Justin Townes Earle feat. Dawn Landes",
+      "has_synced": false,
+      "path": "select/04_Do_I_Ever_Cross_Your_Mind_Justin_Townes_Earle_feat._Dawn_Landes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Justin Townes Earle, Dawn Landes",
+      "has_synced": false,
+      "path": "select/05_Do_I_Ever_Cross_Your_Mind_Justin_Townes_Earle,_Dawn_Landes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cross Your Mind",
+      "artist": "Niall Horan",
+      "has_synced": true,
+      "path": "select/06_Cross_Your_Mind_Niall_Horan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/07_Do_I_Ever_Cross_Your_Mind_Cher.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Emmylou Harris, Linda Ronstadt & Dolly Parton",
+      "has_synced": true,
+      "path": "select/08_Do_I_Ever_Cross_Your_Mind_Emmylou_Harris,_Linda_Ronstadt_&_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/09_Do_I_Ever_Cross_Your_Mind_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Ray Charles & Bonnie Raitt",
+      "has_synced": true,
+      "path": "select/10_Do_I_Ever_Cross_Your_Mind_Ray_Charles_&_Bonnie_Raitt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ray Charles & Bonnie Raitt \u0000 Do I Ever Cross Your Mind",
+      "artist": "Ray Charles",
+      "has_synced": true,
+      "path": "select/11_Ray_Charles_&_Bonnie_Raitt_\u0000_Do_I_Ever_Cross_Your_Mind_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind",
+      "artist": "Nana Mouskouri",
+      "has_synced": false,
+      "path": "select/12_Do_I_Ever_Cross_Your_Mind_Nana_Mouskouri.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_Does_Fort_Worth_Ever_Cross_Your_Mind_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do I Ever Cross Your Mind?",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/14_Do_I_Ever_Cross_Your_Mind_Dolly_Parton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cross Your Mind",
+      "artist": "Shelly",
+      "has_synced": false,
+      "path": "select/pl_01_Cross_Your_Mind_Shelly.txt"
+    }
+  ]
+}
